@@ -2,7 +2,7 @@ RCC = HSE ----> Ceramic Crystal
 SYS = Trace Synchronus 
 clk = 168MHZ
 Debug setting = SWV enable 
-must be on evry string end\r\n
+must be on evry string end  \n
 
 int __io_putchar(int ch)
 {
